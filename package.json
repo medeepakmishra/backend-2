@@ -1,0 +1,24 @@
+{
+  "name": "backend-again",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/medeepakmishra/backend-2#readme",
+  "bugs": {
+    "url": "https://github.com/medeepakmishra/backend-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medeepakmishra/backend-2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "D": "^1.0.0",
+    "nodemon": "^3.1.11"
+  }
+}
